@@ -1,5 +1,5 @@
 {
-  "bot-name": "PRINCE-MDXI",
+  "bot-name": "Raju",
   "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴘʀɪɴᴄᴇ ᴛᴇᴄʜ",
   "logo": "https://raw.githubusercontent.com/Mayelprince/url/main/url/1264.jpg",
   "keywords": ["bot"],
@@ -10,22 +10,22 @@
     "SESSION_ID": {
       "description": "Must Start with 'PRINCE-MDX~'",
       "required": true,
-      "value": ""
+      "value": "PRINCE-MDX~dJi3F2eV3S0RTOKohuyr"
     },  
     "MODE": {
       "description": "Set private/public/inbox/groups",
       "required": false,
-      "value": "public"
+      "value": "private"
     },
     "OWNER_NAME": {
       "description": "Put Owner Name Here",
       "required": true,
-      "value": "Prince Tech"
+      "value": "Raju Boss"
     },
     "OWNER_NUMBER": {
       "description": "Put only one Owner Number Here",
       "required": true,
-      "value": "237677224245"
+      "value": "923295112243"
     },
     
    
