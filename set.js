@@ -4,9 +4,6 @@ const fs = require('fs'),
       dotenv = fs.existsSync('config.env') ? require('dotenv').config({ path: '/.env' }) : undefined,
       convertToBool = (text, fault = 'true') => text === fault;
 
-
-global.sessionServer = "https://sessions-r8cn.onrender.com";
-global.session = "https://session-id-8pge.onrender.com"; 
  
  
 module.exports = {
